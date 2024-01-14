@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @ragerslazar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Who am I ?
+French junior developer coding some projects for fun but with passion ❤️
 
-<!---
-ragerslazar/ragerslazar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py)]()
+
+## ✉️ Contact
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazar-l-a11402241/)
