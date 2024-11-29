@@ -3,8 +3,8 @@ French junior developer coding some projects for fun but with passion ❤️
 
 ![](https://komarev.com/ghpvc/?username=ragerslazar&style=for-the-badge&color=brightgreen)
 
-## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,py,nodejs,bootstrap,postgresql)]()
+## 🛠 Skills & Learning
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,py,java,nodejs,bootstrap,postgresql,git,github,docker,linux,windows)]()
 
 ## 💻 What I'm Working On
 
