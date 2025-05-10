@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+👷‍♂️ Working on <a href="https://github.com/ragerslazar/LALOC" target="_blank">LALOC</a> & <a href="https://github.com/ragerslazar/laloc-car-manager" target="_blank">LALOC's Cars Manager</a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ragerslazar&style=for-the-badge&color=brightgreen" alt="Profile views" />
 </p>
 
