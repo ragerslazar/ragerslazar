@@ -1,37 +1,27 @@
-<h3 align="center">ragerslazar</h3>
+<div align="center">
 
-<p align="center">
-  🚀 French junior developer ❤️
-</p>
+# 𝗥𝗔𝗚𝗘𝗥𝗦𝗟𝗔𝗭𝗔𝗥
 
-<p align="center">
-👷‍♂️ Working on <a href="https://github.com/ragerslazar/LALOC" target="_blank">LALOC</a> & <a href="https://github.com/ragerslazar/laloc-car-manager" target="_blank">LALOC's Cars Manager</a>
-</p>
+🚀 French junior developer ❤️
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ragerslazar&style=for-the-badge&color=brightgreen" alt="Profile views" />
-</p>
+👷‍♂️ Working on [LALOC](https://github.com/ragerslazar/LALOC) & [LALOC's Cars Manager](https://github.com/ragerslazar/laloc-car-manager)
 
 ---
 
-<h2 align="center">🛠 Skills & Learning</h2>
+## 🛠 Skills & Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,py,java,nodejs,bootstrap,postgresql,git,github,docker,vscode,idea,linux,windows" />
-</p>
+![Skills](https://skillicons.dev/icons?i=html,css,php,js,py,java,nodejs,bootstrap,postgresql,git,github,docker,vscode,idea,linux,windows)
 
 ---
 
-<h2 align="center">✉️ Contact</h2>
+## ✉️ Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lazar-la2103/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazar-la2103/)
 
 ---
 
-<p align="center">
-  🧠 Shoot for the moon, because even if you miss, you'll end up among the stars.
-</p>
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ragerslazar&layout=compact&hide_title=true)
+
+![Profile views](https://komarev.com/ghpvc/?username=ragerslazar&style=for-the-badge&color=brightgreen)
+
+</div>
