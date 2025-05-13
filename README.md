@@ -20,7 +20,7 @@
 
 ---
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ragerslazar&layout=compact&hide_title=true)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ragerslazar&layout=compact&hide_title=false)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ragerslazar&style=for-the-badge&color=brightgreen)
 
