@@ -10,7 +10,7 @@
 
 ## 🛠 Skills & Learning
 
-![Skills](https://skillicons.dev/icons?i=html,css,php,js,py,java,nodejs,bootstrap,postgresql,git,github,docker,vscode,idea,linux,windows)
+![Skills](https://skillicons.dev/icons?i=html,css,php,js,py,java,nodejs,bootstrap,postgresql,mysql,git,github,docker,vscode,idea,pycharm,phpstorm,linux,windows)
 
 ---
 
