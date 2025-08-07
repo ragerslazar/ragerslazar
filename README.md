@@ -4,13 +4,11 @@
 
 🚀 French junior developer ❤️
 
-👷‍♂️ Working on [LALOC](https://github.com/ragerslazar/LALOC) & [LALOC's Cars Manager](https://github.com/ragerslazar/laloc-car-manager)
-
 ---
 
 ## 🛠 Skills & Learning
 
-![Skills](https://skillicons.dev/icons?i=html,css,php,js,py,java,nodejs,bootstrap,postgresql,mysql,git,github,docker,vscode,idea,pycharm,phpstorm,linux,windows)
+![Skills](https://skillicons.dev/icons?i=html,css,php,js,py,java,nodejs,flask,bootstrap,postgresql,mysql,git,github,docker,vscode,idea,pycharm,phpstorm,linux,windows)
 
 ---
 
