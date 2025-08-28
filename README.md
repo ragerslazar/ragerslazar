@@ -5,7 +5,7 @@
 
 ## 🛠 Skills & Learning
 
-![Skills](https://skillicons.dev/icons?i=html,css,php,js,py,java,nodejs,flask,bootstrap,postgresql,mysql,git,github,docker,vscode,idea,pycharm,phpstorm,linux,windows)
+![Skills](https://skillicons.dev/icons?i=html,css,php,js,py,java,flask,bootstrap,postgresql,mysql,git,github,docker,vscode,idea,pycharm,phpstorm,linux,windows)
 
 
 ## ✉️ Contact
